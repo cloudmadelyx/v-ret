@@ -1,0 +1,26 @@
+# LICENSE
+
+## Non-Commercial Use Only
+
+This code is provided for **personal, educational, and non-commercial use only**.  
+You **may NOT** use, distribute, or sell this code or any derivative works for profit or commercial purposes without explicit written permission from the original author.
+
+## No Warranty and No Liability
+
+This code is provided "as is," without any express or implied warranty of any kind, including but not limited to warranties of accuracy, reliability, or fitness for a particular purpose.
+
+The author assumes **no responsibility or liability** for any errors, inaccuracies, or damages resulting from the use of this code.
+
+## Professional Weather Data Disclaimer
+
+This code fetches weather data from a public API and is intended for informational or educational purposes only.
+
+**You should always verify weather information with professional and official weather services or apps before making any decisions based on weather forecasts.**
+
+## API Terms and Conditions
+
+By using this code, you also agree to comply with the **terms and conditions of the Open-Meteo API** (or any other used APIs). Please review their usage policies and respect any restrictions they impose.
+
+---
+
+By using this code, you agree to all the above terms and conditions.
