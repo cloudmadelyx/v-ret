@@ -6,6 +6,23 @@ This code and its outputs are provided for personal or educational use only. You
 
 ---
 
+This repository contains a project based on the idea from the website:
+https://roadmap.sh/projects/weather-api-wrapper-service https://roadmap.sh/projects/weather-api-wrapper-service
+
+---
+
+## Project Description
+
+The goal of this project is to create a wrapper service for weather APIs that fetches, processes, and caches weather data in a user-friendly way.
+
+This implementation uses the Open-Meteo API with caching and automatic retries, providing current and hourly weather data for given locations.
+
+---
+
+## Acknowledgment
+
+This project was inspired by the roadmap.sh project idea to help learners build practical API wrapper services.
+
 ## What This Code Does
 
 This script fetches weather data from the Open-Meteo API for a specified geographic location (latitude and longitude). It includes the following features:
@@ -47,19 +64,3 @@ Install missing packages via pip, for example:
 pip install openmeteo_requests pandas requests_cache retry_requests
 # Project Information
 
-This repository contains a project based on the idea from the website:
-https://roadmap.sh/projects/weather-api-wrapper-service https://roadmap.sh/projects/weather-api-wrapper-service
-
----
-
-## Project Description
-
-The goal of this project is to create a wrapper service for weather APIs that fetches, processes, and caches weather data in a user-friendly way.
-
-This implementation uses the Open-Meteo API with caching and automatic retries, providing current and hourly weather data for given locations.
-
----
-
-## Acknowledgment
-
-This project was inspired by the roadmap.sh project idea to help learners build practical API wrapper services.
