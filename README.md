@@ -48,8 +48,7 @@ pip install openmeteo_requests pandas requests_cache retry_requests
 # Project Information
 
 This repository contains a project based on the idea from the website:
-
-[https://roadmap.sh/projects/weather-api-wrapper-service](https://roadmap.sh/projects/weather-api-wrapper-service)
+https://roadmap.sh/projects/weather-api-wrapper-service https://roadmap.sh/projects/weather-api-wrapper-service
 
 ---
 
